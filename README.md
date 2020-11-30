@@ -13,7 +13,7 @@
 
 Here is a list of technologies that I am currently working on
 
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px, padding: 10" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />  
@@ -29,7 +29,7 @@ Here is a list of technologies that I am currently working on
 
 ### 💬 Let's talk!
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/marqueswsm/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
