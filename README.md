@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on serverless platforms
 
 </br>
-</br>
 
 ### ⚡ Technologies
 
@@ -24,7 +23,6 @@ Here is a list of technologies that I am currently working on
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Go" height="40" />  
 </div>  
 
-</br>
 </br>
 
 ### 💬 Let's talk!
