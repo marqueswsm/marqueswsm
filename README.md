@@ -2,7 +2,7 @@
 
 ### <div align="center"> My name is Wagner! I'm a backend software developer </div>  
 
-- 🔭 I’m currently working as a Jr. backend developer at PHI
+- 🔭 I’m currently working as a backend developer at PHI
 - 🌱 I’m learning hexagonal architecture, kubernetes, and Serverless Computing
 - 👯 I’m looking to collaborate on serverless platforms
 
