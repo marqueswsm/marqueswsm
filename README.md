@@ -2,6 +2,7 @@
 
 ### <div align="center"> My name is Wagner! I'm a backend software developer </div>  
 
+- 🎓 MSc Computer Science
 - 🔭 I’m currently working as a backend developer at Sensedia
 - 🌱 I’m learning hexagonal architecture, kubernetes, and Serverless Computing
 
